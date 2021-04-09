@@ -1,1 +1,2 @@
-# Hammer-n-objects-game
+# Geologist
+Geologist Project
